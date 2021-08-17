@@ -1,0 +1,6 @@
+15095:UP from15091at Time:10:32
+15095:UP from15092at Time:10:35
+15095:UP from15092at Time:10:35
+15034:Down from15043at Time:15:14
+14990:Down from15002at Time:09:53
+0:Down from0at Time:17:17
